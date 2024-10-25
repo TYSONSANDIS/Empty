@@ -1,3 +1,0 @@
-[
-    {"MsgId":1001, "MsgName":"login", "Request":"User.LoginRequest", "Response":"User.LoginResponse"}
-]
